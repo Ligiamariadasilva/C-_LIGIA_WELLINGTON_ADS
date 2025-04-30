@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\bin\Debug\net9.0\Exerc_06_CadastroProdutos.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\bin\Debug\net9.0\Exerc_06_CadastroProdutos.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\bin\Debug\net9.0\Exerc_06_CadastroProdutos.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\bin\Debug\net9.0\Exerc_06_CadastroProdutos.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\bin\Debug\net9.0\Exerc_06_CadastroProdutos.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\obj\Debug\net9.0\Exerc_06_CadastroProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\obj\Debug\net9.0\Exerc_06_CadastroProdutos.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\obj\Debug\net9.0\Exerc_06_CadastroProdutos.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\obj\Debug\net9.0\Exerc_06_CadastroProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\obj\Debug\net9.0\Exerc_06_CadastroProdutos.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\obj\Debug\net9.0\refint\Exerc_06_CadastroProdutos.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\obj\Debug\net9.0\Exerc_06_CadastroProdutos.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\obj\Debug\net9.0\Exerc_06_CadastroProdutos.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_06_CadastroProdutos\obj\Debug\net9.0\ref\Exerc_06_CadastroProdutos.dll

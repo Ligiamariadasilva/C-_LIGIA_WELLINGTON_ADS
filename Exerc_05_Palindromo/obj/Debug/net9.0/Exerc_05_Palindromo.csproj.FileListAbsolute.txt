@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\bin\Debug\net9.0\Exerc_05_Palindromo.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\bin\Debug\net9.0\Exerc_05_Palindromo.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\bin\Debug\net9.0\Exerc_05_Palindromo.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\bin\Debug\net9.0\Exerc_05_Palindromo.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\bin\Debug\net9.0\Exerc_05_Palindromo.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\obj\Debug\net9.0\Exerc_05_Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\obj\Debug\net9.0\Exerc_05_Palindromo.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\obj\Debug\net9.0\Exerc_05_Palindromo.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\obj\Debug\net9.0\Exerc_05_Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\obj\Debug\net9.0\Exerc_05_Palindromo.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\obj\Debug\net9.0\refint\Exerc_05_Palindromo.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\obj\Debug\net9.0\Exerc_05_Palindromo.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\obj\Debug\net9.0\Exerc_05_Palindromo.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_05_Palindromo\obj\Debug\net9.0\ref\Exerc_05_Palindromo.dll

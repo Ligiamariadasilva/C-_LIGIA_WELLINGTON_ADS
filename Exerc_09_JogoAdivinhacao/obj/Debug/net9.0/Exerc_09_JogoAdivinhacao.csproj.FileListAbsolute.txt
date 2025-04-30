@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\bin\Debug\net9.0\Exerc_09_JogoAdivinhacao.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\bin\Debug\net9.0\Exerc_09_JogoAdivinhacao.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\bin\Debug\net9.0\Exerc_09_JogoAdivinhacao.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\bin\Debug\net9.0\Exerc_09_JogoAdivinhacao.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\bin\Debug\net9.0\Exerc_09_JogoAdivinhacao.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\obj\Debug\net9.0\Exerc_09_JogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\obj\Debug\net9.0\Exerc_09_JogoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\obj\Debug\net9.0\Exerc_09_JogoAdivinhacao.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\obj\Debug\net9.0\Exerc_09_JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\obj\Debug\net9.0\Exerc_09_JogoAdivinhacao.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\obj\Debug\net9.0\refint\Exerc_09_JogoAdivinhacao.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\obj\Debug\net9.0\Exerc_09_JogoAdivinhacao.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\obj\Debug\net9.0\Exerc_09_JogoAdivinhacao.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_09_JogoAdivinhacao\obj\Debug\net9.0\ref\Exerc_09_JogoAdivinhacao.dll

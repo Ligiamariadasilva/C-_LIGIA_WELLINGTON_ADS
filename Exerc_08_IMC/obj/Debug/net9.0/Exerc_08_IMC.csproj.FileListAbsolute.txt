@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\bin\Debug\net9.0\Exerc_08_IMC.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\bin\Debug\net9.0\Exerc_08_IMC.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\bin\Debug\net9.0\Exerc_08_IMC.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\bin\Debug\net9.0\Exerc_08_IMC.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\bin\Debug\net9.0\Exerc_08_IMC.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\obj\Debug\net9.0\Exerc_08_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\obj\Debug\net9.0\Exerc_08_IMC.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\obj\Debug\net9.0\Exerc_08_IMC.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\obj\Debug\net9.0\Exerc_08_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\obj\Debug\net9.0\Exerc_08_IMC.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\obj\Debug\net9.0\refint\Exerc_08_IMC.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\obj\Debug\net9.0\Exerc_08_IMC.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\obj\Debug\net9.0\Exerc_08_IMC.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_08_IMC\obj\Debug\net9.0\ref\Exerc_08_IMC.dll

@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\bin\Debug\net9.0\Exerc_01_ValidadorSenha.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\bin\Debug\net9.0\Exerc_01_ValidadorSenha.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\bin\Debug\net9.0\Exerc_01_ValidadorSenha.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\bin\Debug\net9.0\Exerc_01_ValidadorSenha.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\bin\Debug\net9.0\Exerc_01_ValidadorSenha.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\obj\Debug\net9.0\Exerc_01_ValidadorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\obj\Debug\net9.0\Exerc_01_ValidadorSenha.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\obj\Debug\net9.0\Exerc_01_ValidadorSenha.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\obj\Debug\net9.0\Exerc_01_ValidadorSenha.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\obj\Debug\net9.0\Exerc_01_ValidadorSenha.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\obj\Debug\net9.0\refint\Exerc_01_ValidadorSenha.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\obj\Debug\net9.0\Exerc_01_ValidadorSenha.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\obj\Debug\net9.0\Exerc_01_ValidadorSenha.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_01_ValidadorSenha\obj\Debug\net9.0\ref\Exerc_01_ValidadorSenha.dll

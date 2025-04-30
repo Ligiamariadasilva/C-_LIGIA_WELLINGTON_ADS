@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\bin\Debug\net9.0\Exerc_03_Fatorial.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\bin\Debug\net9.0\Exerc_03_Fatorial.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\bin\Debug\net9.0\Exerc_03_Fatorial.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\bin\Debug\net9.0\Exerc_03_Fatorial.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\bin\Debug\net9.0\Exerc_03_Fatorial.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\obj\Debug\net9.0\Exerc_03_Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\obj\Debug\net9.0\Exerc_03_Fatorial.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\obj\Debug\net9.0\Exerc_03_Fatorial.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\obj\Debug\net9.0\Exerc_03_Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\obj\Debug\net9.0\Exerc_03_Fatorial.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\obj\Debug\net9.0\refint\Exerc_03_Fatorial.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\obj\Debug\net9.0\Exerc_03_Fatorial.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\obj\Debug\net9.0\Exerc_03_Fatorial.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_03_Fatorial\obj\Debug\net9.0\ref\Exerc_03_Fatorial.dll

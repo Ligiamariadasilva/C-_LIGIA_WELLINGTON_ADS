@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\bin\Debug\net9.0\Exerc_02_Tabuada.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\bin\Debug\net9.0\Exerc_02_Tabuada.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\bin\Debug\net9.0\Exerc_02_Tabuada.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\bin\Debug\net9.0\Exerc_02_Tabuada.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\bin\Debug\net9.0\Exerc_02_Tabuada.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\obj\Debug\net9.0\Exerc_02_Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\obj\Debug\net9.0\Exerc_02_Tabuada.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\obj\Debug\net9.0\Exerc_02_Tabuada.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\obj\Debug\net9.0\Exerc_02_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\obj\Debug\net9.0\Exerc_02_Tabuada.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\obj\Debug\net9.0\refint\Exerc_02_Tabuada.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\obj\Debug\net9.0\Exerc_02_Tabuada.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\obj\Debug\net9.0\Exerc_02_Tabuada.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_02_Tabuada\obj\Debug\net9.0\ref\Exerc_02_Tabuada.dll

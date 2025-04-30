@@ -1,0 +1,4 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\obj\Debug\net9.0\SEG_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\obj\Debug\net9.0\SEG_C#.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\obj\Debug\net9.0\SEG_C#.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\obj\Debug\net9.0\SEG_C#.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\bin\Debug\net9.0\Exerc_04_ConversorTemperatura.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\bin\Debug\net9.0\Exerc_04_ConversorTemperatura.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\bin\Debug\net9.0\Exerc_04_ConversorTemperatura.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\bin\Debug\net9.0\Exerc_04_ConversorTemperatura.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\bin\Debug\net9.0\Exerc_04_ConversorTemperatura.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\obj\Debug\net9.0\Exerc_04_ConversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\obj\Debug\net9.0\Exerc_04_ConversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\obj\Debug\net9.0\Exerc_04_ConversorTemperatura.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\obj\Debug\net9.0\Exerc_04_ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\obj\Debug\net9.0\Exerc_04_ConversorTemperatura.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\obj\Debug\net9.0\refint\Exerc_04_ConversorTemperatura.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\obj\Debug\net9.0\Exerc_04_ConversorTemperatura.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\obj\Debug\net9.0\Exerc_04_ConversorTemperatura.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_04_ConversorTemperatura\obj\Debug\net9.0\ref\Exerc_04_ConversorTemperatura.dll

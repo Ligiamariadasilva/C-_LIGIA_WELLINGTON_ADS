@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\bin\Debug\net9.0\Exerc_07_SomaParesArray.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\bin\Debug\net9.0\Exerc_07_SomaParesArray.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\bin\Debug\net9.0\Exerc_07_SomaParesArray.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\bin\Debug\net9.0\Exerc_07_SomaParesArray.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\bin\Debug\net9.0\Exerc_07_SomaParesArray.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\obj\Debug\net9.0\Exerc_07_SomaParesArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\obj\Debug\net9.0\Exerc_07_SomaParesArray.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\obj\Debug\net9.0\Exerc_07_SomaParesArray.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\obj\Debug\net9.0\Exerc_07_SomaParesArray.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\obj\Debug\net9.0\Exerc_07_SomaParesArray.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\obj\Debug\net9.0\refint\Exerc_07_SomaParesArray.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\obj\Debug\net9.0\Exerc_07_SomaParesArray.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\obj\Debug\net9.0\Exerc_07_SomaParesArray.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_07_SomaParesArray\obj\Debug\net9.0\ref\Exerc_07_SomaParesArray.dll

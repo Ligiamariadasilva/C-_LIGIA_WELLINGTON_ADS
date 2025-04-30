@@ -1,0 +1,14 @@
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\bin\Debug\net9.0\Exerc_10_ToDoList.exe
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\bin\Debug\net9.0\Exerc_10_ToDoList.deps.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\bin\Debug\net9.0\Exerc_10_ToDoList.runtimeconfig.json
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\bin\Debug\net9.0\Exerc_10_ToDoList.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\bin\Debug\net9.0\Exerc_10_ToDoList.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\obj\Debug\net9.0\Exerc_10_ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\obj\Debug\net9.0\Exerc_10_ToDoList.AssemblyInfoInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\obj\Debug\net9.0\Exerc_10_ToDoList.AssemblyInfo.cs
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\obj\Debug\net9.0\Exerc_10_ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\obj\Debug\net9.0\Exerc_10_ToDoList.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\obj\Debug\net9.0\refint\Exerc_10_ToDoList.dll
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\obj\Debug\net9.0\Exerc_10_ToDoList.pdb
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\obj\Debug\net9.0\Exerc_10_ToDoList.genruntimeconfig.cache
+C:\Users\Ligia Maria\Desktop\SEG_C#\Exerc_10_ToDoList\obj\Debug\net9.0\ref\Exerc_10_ToDoList.dll
