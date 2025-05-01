@@ -1,29 +1,29 @@
 # Estrutura inicial para o Trabalho de Lógica de Programação em C#
 
 TRABALHO_C#_SEGUNDA
-├── bin
-├── Exerc_01_ValidadorSenha
-│   └── Program.cs
-├── Exerc_02_Tabuada
-│   └── Program.cs
-├── Exerc_03_Fatorial
-│   └── Program.cs
-├── Exerc_04_ConversorTemperatura
-│   └── Program.cs
-├── Exerc_05_Palindromo
-│   └── Program.cs
-├── Exerc_06_CadastroProdutos
-│   └── Program.cs
-├── Exerc_07_SomaParesArray
-│   └── Program.cs
-├── Exerc_08_IMC
-│   └── Program.cs
-├── Exerc_09_JogoAdivinhacao
-│   └── Program.cs
-├── Exerc_10_ToDoList
-│   └── Program.cs
-├── obj
-├── README.md
+# bin
+#### Exerc_01_ValidadorSenha
+###### Program.cs
+#### Exerc_02_Tabuada
+###### Program.cs
+#### Exerc_03_Fatorial
+###### Program.cs
+#### Exerc_04_ConversorTemperatura
+###### Program.cs
+#### Exerc_05_Palindromo
+###### Program.cs
+#### Exerc_06_CadastroProdutos
+###### Program.cs
+#### Exerc_07_SomaParesArray
+###### Program.cs
+#### Exerc_08_IMC
+###### Program.cs
+#### Exerc_09_JogoAdivinhacao
+###### Program.cs
+#### Exerc_10_ToDoList
+###### Program.cs
+# obj
+# README.md
 
 
 # README.md
@@ -32,8 +32,8 @@ TRABALHO_C#_SEGUNDA
 
 **Integrantes do grupo:**
 - LIGIA MARIA DA SILVA SANTOS RGM 39106021
-- WELLINGTON COQUEIRO
-- NOME 3 XXXXXX
+- WELLINGTON COQUEIRO RGM 38414392
+- GUILHERME PONTES MENDONÇA RGM 37199552
 
 **Exercícios resolvidos:**
 1. Validador de Senhas Fortes
